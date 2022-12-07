@@ -5,7 +5,7 @@ For this the player can only move forward to avoid the cars, which only get fast
 
 ## How to Use
 
-The file is written in standard Python that uses two modules: 
+The files are written in standard Python that uses three modules: 
 - turtle
 - random
 - datetime
